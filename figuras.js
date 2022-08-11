@@ -67,7 +67,7 @@ function areaCirculo (radio) {
 
 console.groupEnd()
 
-/* Interacion con html y javascrpt */
+/* Interacion con html y javascrpt cuadrado */
 
 
 function calcularPerimetroCuadrado(){
@@ -84,4 +84,10 @@ function calcularAreaCuadrado(){
 
     const area = areaCuadrado(value)
     alert(area)
+}
+
+/* Triangulo */
+
+function calcularPerimetroTriangulo () {
+    
 }
